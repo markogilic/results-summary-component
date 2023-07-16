@@ -12,5 +12,10 @@ Users should be able to:
 
 ### Built with
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 - Flexbox
+- -Dynamically fetching data from JSON
+
+### Links
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-results-summary-component-with-javascript-75cL-5ZRAX)
+- [Live Page](https://markogilic.github.io/results-summary-component/)
