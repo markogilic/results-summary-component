@@ -4,7 +4,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Overview
 
-###The challenge
+### The challenge
 
 Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
